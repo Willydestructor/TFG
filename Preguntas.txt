@@ -1,0 +1,2 @@
+Ahora mismo boardcreator es un programa que hace un mapa, pero yo eso lo puedo precargar,
+luego son 8 segundos que me ahorro.
